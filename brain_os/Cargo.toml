@@ -1,0 +1,12 @@
+[package]
+name = "brain_os"
+version = "0.1.0"
+authors = ["Victor Lawrence <victor.lawrence@uga.edu>"]
+edition = "2018"
+
+[profile.dev]
+
+[profile.release]
+
+[dependencies]
+bootloader = "0.6.0"
